@@ -1,0 +1,14 @@
+﻿{
+
+  "version": "1.0",
+  //"token": "MTAyNzg1NzMzODMzNTUwMjQyNg.GyOTzi.XdodGFbpW0OEB1yL-79MTIO_CTH0OAcGfA0aao",
+  "token": "MTAyNzg4NDA0NDE1NjkzNjE5Mg.GhEw27.vJqRW7wPdc_57y7xS76q_-Mta6JSGcFZ718weU",
+
+  "prefixes": [ "!" ],
+  "join_message": "Hello, I'm Discord Bot! :heart:",
+
+  "currently": "playing|listening|watching|streaming",
+  "playing_status": "cool status here.",
+  "status": "online|dnd|idle|offline"
+
+}
